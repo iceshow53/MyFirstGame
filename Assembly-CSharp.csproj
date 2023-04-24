@@ -60,18 +60,15 @@
     <Compile Include="Assets\Scripts\Weapon\Mine\MineController.cs" />
     <Compile Include="Assets\Scripts\Weapon\Shield\ShieldController.cs" />
     <Compile Include="Assets\Resource\TextMesh Pro\Examples &amp; Extras\Scripts\SkewTextExample.cs" />
-    <Compile Include="Assets\Resource\JMO Assets\Cartoon FX (legacy)\Scripts\CFX_LightIntensityFade.cs" />
     <Compile Include="Assets\Resource\TextMesh Pro\Examples &amp; Extras\Scripts\SimpleScript.cs" />
     <Compile Include="Assets\Scripts\Weapon\SubWeaponContoller.cs" />
     <Compile Include="Assets\Scripts\Sound\SoundController.cs" />
     <Compile Include="Assets\Scripts\Weapon\Weapon_View.cs" />
     <Compile Include="Assets\Scripts\Enemy\EnemyController.cs" />
-    <Compile Include="Assets\Resource\JMO Assets\Cartoon FX (legacy)\Scripts\CFX_AutoRotate.cs" />
     <Compile Include="Assets\Scripts\UI\TabKey.cs" />
     <Compile Include="Assets\Resource\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark01_UGUI.cs" />
     <Compile Include="Assets\Resource\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextSelector_A.cs" />
     <Compile Include="Assets\Scripts\Weapon\BulletController.cs" />
-    <Compile Include="Assets\Resource\JMO Assets\Cartoon FX (legacy)\Demo\Assets\CFX_AutoStopLoopedEffect.cs" />
     <Compile Include="Assets\Scripts\Weapon\Drone\DroneActive.cs" />
     <Compile Include="Assets\Resource\TextMesh Pro\Examples &amp; Extras\Scripts\VertexShakeA.cs" />
     <Compile Include="Assets\Scripts\UI\LeaderBoard.cs" />
@@ -82,7 +79,6 @@
     <Compile Include="Assets\Scripts\Enemy\EnemyManager.cs" />
     <Compile Include="Assets\Resource\TextMesh Pro\Examples &amp; Extras\Scripts\ChatController.cs" />
     <Compile Include="Assets\Scripts\Weapon\Drone\DroneController.cs" />
-    <Compile Include="Assets\Resource\JMO Assets\Cartoon FX (legacy)\Demo\Assets\CFX_Demo_RandomDir.cs" />
     <Compile Include="Assets\Resource\TextMesh Pro\Examples &amp; Extras\Scripts\TextMeshProFloatingText.cs" />
     <Compile Include="Assets\Resource\TextMesh Pro\Examples &amp; Extras\Scripts\VertexShakeB.cs" />
     <Compile Include="Assets\Resource\TextMesh Pro\Examples &amp; Extras\Scripts\EnvMapAnimator.cs" />
@@ -91,7 +87,6 @@
     <Compile Include="Assets\Scripts\NPC\TextModule.cs" />
     <Compile Include="Assets\Resource\TextMesh Pro\Examples &amp; Extras\Scripts\CameraController.cs" />
     <Compile Include="Assets\Resource\TextMesh Pro\Examples &amp; Extras\Scripts\TMPro_InstructionOverlay.cs" />
-    <Compile Include="Assets\Resource\JMO Assets\Cartoon FX (legacy)\Scripts\CFX_AutoDestructShuriken.cs" />
     <Compile Include="Assets\Resource\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_ExampleScript_01.cs" />
     <Compile Include="Assets\Scripts\UI\UIController.cs" />
     <Compile Include="Assets\Resource\TextMesh Pro\Examples &amp; Extras\Scripts\TextConsoleSimulator.cs" />
@@ -101,7 +96,6 @@
     <Compile Include="Assets\Scripts\NPC\Hall.cs" />
     <Compile Include="Assets\Resource\TextMesh Pro\Examples &amp; Extras\Scripts\ShaderPropAnimator.cs" />
     <Compile Include="Assets\Scripts\UI\PlayerInfoUI1.cs" />
-    <Compile Include="Assets\Resource\JMO Assets\Cartoon FX (legacy)\Demo\Assets\CFX_Demo_RotateCamera.cs" />
     <Compile Include="Assets\Scripts\NPC\NPC.cs" />
     <Compile Include="Assets\Resource\TextMesh Pro\Examples &amp; Extras\Scripts\WarpTextExample.cs" />
     <Compile Include="Assets\Resource\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_DigitValidator.cs" />
@@ -115,7 +109,6 @@
     <Compile Include="Assets\Resource\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark03.cs" />
     <Compile Include="Assets\Scripts\UI\PlayerHPController.cs" />
     <Compile Include="Assets\Scripts\Entity\BoxContoller.cs" />
-    <Compile Include="Assets\Resource\JMO Assets\Cartoon FX (legacy)\Demo\Assets\CFX_Demo_RandomDirectionTranslate.cs" />
     <Compile Include="Assets\Scripts\WebServer\WebController.cs" />
     <Compile Include="Assets\Resource\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_FrameRateCounter.cs" />
     <Compile Include="Assets\Scripts\Entity\BoxTracker.cs" />
@@ -126,18 +119,15 @@
     <Compile Include="Assets\Scripts\UI\WeaponInfo.cs" />
     <Compile Include="Assets\Resource\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextEventHandler.cs" />
     <Compile Include="Assets\Scripts\Data\SaveController.cs" />
-    <Compile Include="Assets\Resource\JMO Assets\Cartoon FX (legacy)\Demo\Assets\CFX_Demo_Translate.cs" />
     <Compile Include="Assets\Resource\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextSelector_B.cs" />
     <Compile Include="Assets\Scripts\Scene\SceneChanger.cs" />
     <Compile Include="Assets\Scripts\Enemy\BossPattern.cs" />
     <Compile Include="Assets\Scripts\Weapon\Shield\ShieldDamage.cs" />
     <Compile Include="Assets\Scripts\UI\SceneController.cs" />
     <Compile Include="Assets\Scripts\Weapon\Mine\Mine.cs" />
-    <Compile Include="Assets\Resource\JMO Assets\Cartoon FX (legacy)\Demo\Assets\CFX_Demo_New.cs" />
     <Compile Include="Assets\Scripts\Enemy\EnemyBulletController.cs" />
     <Compile Include="Assets\Resource\TextMesh Pro\Examples &amp; Extras\Scripts\DropdownSample.cs" />
     <Compile Include="Assets\Resource\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_PhoneNumberValidator.cs" />
-    <Compile Include="Assets\Resource\JMO Assets\Cartoon FX (legacy)\Scripts\CFX_LightFlicker.cs" />
     <Compile Include="Assets\Resource\TextMesh Pro\Examples &amp; Extras\Scripts\VertexColorCycler.cs" />
     <Compile Include="Assets\Resource\TextMesh Pro\Examples &amp; Extras\Scripts\TeleType.cs" />
     <Compile Include="Assets\Scripts\Item\Medicine.cs" />
@@ -145,42 +135,32 @@
     <Compile Include="Assets\Scripts\Weapon\Mine\MineDamage.cs" />
     <Compile Include="Assets\Scripts\Player\PlayerInfo.cs" />
     <Compile Include="Assets\Resource\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark01.cs" />
+    <Compile Include="Assets\Fx\FXScript\CFX_AutoDestructShuriken.cs" />
+    <Compile Include="Assets\Fx\FXScript\CFX_LightIntensityFade.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Resource\TextMesh Pro\Shaders\TMPro.cginc" />
     <None Include="Assets\Resource\TextMesh Pro\Shaders\TMP_SDF-Mobile Overlay.shader" />
-    <None Include="Assets\Resource\JMO Assets\Cartoon FX (legacy)\Shaders\CFX3 Multiply Color.shader" />
-    <None Include="Assets\Resource\JMO Assets\Cartoon FX Remaster\CFXR Assets\Shaders\CFXR Particle Glow.shader" />
-    <None Include="Assets\Resource\JMO Assets\Cartoon FX Remaster\CFXR Assets\Shaders\CFXR Particle Ubershader.shader" />
-    <None Include="Assets\Resource\JMO Assets\Cartoon FX Remaster\CFXR Assets\Shaders\CFXR_SETTINGS.cginc" />
     <None Include="Assets\Resource\TextMesh Pro\Shaders\TMP_Bitmap.shader" />
-    <None Include="Assets\Resource\JMO Assets\Cartoon FX (legacy)\CartoonFX Free.txt" />
     <None Include="Assets\Resource\TextMesh Pro\Examples &amp; Extras\Fonts\Oswald-Bold - OFL.txt" />
     <None Include="Assets\Resource\TextMesh Pro\Examples &amp; Extras\Fonts\Anton OFL.txt" />
-    <None Include="Assets\Resource\JMO Assets\Cartoon FX Remaster\CFXR Assets\Shaders\CFXR.cginc" />
     <None Include="Assets\Resource\TextMesh Pro\Shaders\TMPro_Mobile.cginc" />
     <None Include="Assets\Resource\TextMesh Pro\Shaders\TMP_SDF SSD.shader" />
     <None Include="Assets\Resource\TextMesh Pro\Shaders\TMP_SDF-Surface-Mobile.shader" />
     <None Include="Assets\Resource\TextMesh Pro\Shaders\TMP_SDF-Surface.shader" />
     <None Include="Assets\Resource\TextMesh Pro\Sprites\EmojiOne Attribution.txt" />
     <None Include="Assets\Resource\TextMesh Pro\Shaders\TMP_Bitmap-Custom-Atlas.shader" />
-    <None Include="Assets\Resource\JMO Assets\Cartoon FX Remaster\Readme Cartoon FX Remaster FREE.txt" />
     <None Include="Assets\Resource\TextMesh Pro\Shaders\TMP_SDF.shader" />
     <None Include="Assets\Resource\TextMesh Pro\Shaders\TMP_SDF-Mobile SSD.shader" />
     <None Include="Assets\Resource\TextMesh Pro\Resources\LineBreaking Leading Characters.txt" />
     <None Include="Assets\Resource\TextMesh Pro\Shaders\TMPro_Properties.cginc" />
     <None Include="Assets\Resource\TextMesh Pro\Shaders\TMPro_Surface.cginc" />
-    <None Include="Assets\Resource\JMO Assets\Cartoon FX Remaster\CFXR Prefabs\Texts\_Make your own text effect.txt" />
     <None Include="Assets\Resource\TextMesh Pro\Resources\LineBreaking Following Characters.txt" />
-    <None Include="Assets\Resource\JMO Assets\Cartoon FX (legacy)\Shaders\CFXM_MobileParticleAdd_Alpha8.shader" />
     <None Include="Assets\Resource\TextMesh Pro\Shaders\TMP_SDF-Mobile Masking.shader" />
-    <None Include="Assets\Resource\JMO Assets\Cartoon FX Remaster\CFXR Assets\Shaders\CFXR Particle Procedural Ring.shader" />
     <None Include="Assets\Resource\TextMesh Pro\Shaders\TMP_SDF Overlay.shader" />
     <None Include="Assets\Resource\TextMesh Pro\Shaders\TMP_Bitmap-Mobile.shader" />
-    <None Include="Assets\Resource\JMO Assets\Cartoon FX Remaster\CFXR Assets\Shaders\CFXR_URP.cginc" />
     <None Include="Assets\Resource\TextMesh Pro\Fonts\LiberationSans - OFL.txt" />
     <None Include="Assets\Resource\TextMesh Pro\Shaders\TMP_SDF-Mobile.shader" />
-    <None Include="Assets\Resource\JMO Assets\Cartoon FX Remaster\CFXR Assets\Shaders\CFXR Particle Distortion.shader" />
     <None Include="Assets\Resource\TextMesh Pro\Shaders\TMP_Sprite.shader" />
     <None Include="Assets\Resource\TextMesh Pro\Examples &amp; Extras\Fonts\Bangers - OFL.txt" />
   </ItemGroup>
@@ -892,30 +872,6 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="ToonyColorsPro.Demo.Editor.csproj">
-      <Project>{683F4E97-E95B-BA83-9167-01B8E7D98D8C}</Project>
-      <Name>ToonyColorsPro.Demo.Editor</Name>
-    </ProjectReference>
-    <ProjectReference Include="KinoBloom.Runtime.csproj">
-      <Project>{83F92701-B93D-9076-8E78-9EC3C16CFDB2}</Project>
-      <Name>KinoBloom.Runtime</Name>
-    </ProjectReference>
-    <ProjectReference Include="CFXREditor.csproj">
-      <Project>{EF2EB5DD-1D50-068B-C85E-5A2EB60FEA54}</Project>
-      <Name>CFXREditor</Name>
-    </ProjectReference>
-    <ProjectReference Include="CFXRDemo.csproj">
-      <Project>{3E3F0F70-3220-E9FB-D6EC-BDF61BECC680}</Project>
-      <Name>CFXRDemo</Name>
-    </ProjectReference>
-    <ProjectReference Include="CFXR.WelcomeScreen.csproj">
-      <Project>{ED291399-7352-2011-E4FB-7D3873A7657D}</Project>
-      <Name>CFXR.WelcomeScreen</Name>
-    </ProjectReference>
-    <ProjectReference Include="CFXRRuntime.csproj">
-      <Project>{15CFBBD9-7FCD-A60A-5565-769F3BD8C869}</Project>
-      <Name>CFXRRuntime</Name>
-    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="GenerateTargetFrameworkMonikerAttribute" />

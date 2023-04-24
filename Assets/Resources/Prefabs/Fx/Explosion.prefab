@@ -4777,7 +4777,7 @@ ParticleSystemRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 503ba37627ac18c4ebe9bbe73d6ea9ad, type: 2}
+  - {fileID: 2100000, guid: fe225fdc56418ec4cb349e84b2ad3b87, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -4932,7 +4932,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1119560965430016}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c2255468ea97f384a9ebbb13e497e050, type: 3}
+  m_Script: {fileID: 11500000, guid: bf8aa6be5c07ece4186b79120e1ec8b8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   duration: 0.2
@@ -9482,7 +9482,7 @@ ParticleSystemRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 3217b570b11b257469c5461f0457e5d4, type: 2}
+  - {fileID: 2100000, guid: 96dcc88da3708954fb414aba91cce47c, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -14292,7 +14292,7 @@ ParticleSystemRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: d1c965e3a9110b94db515cf6edd67b92, type: 2}
+  - {fileID: 2100000, guid: 9a1673f51e1dbec4195d2218f12f16a5, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -19039,7 +19039,7 @@ ParticleSystemRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: e3d4119c3e4597d4b90fc27f1419ca4b, type: 2}
+  - {fileID: 2100000, guid: 63a6462f9ad94ba439a3d02a3772deae, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -23758,7 +23758,7 @@ ParticleSystemRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 4d5a52cb18e09b843887aee389016b8d, type: 2}
+  - {fileID: 2100000, guid: c2827d910861c5147a5ece853711e5de, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -23818,7 +23818,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1892078723244562}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6fd2e8874f60266498a388d7229a1bac, type: 3}
+  m_Script: {fileID: 11500000, guid: dbe22817e460b2c4586db493e57fdfd8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   OnlyDeactivate: 0
